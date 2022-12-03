@@ -1,0 +1,37 @@
+.blur__bg {
+  background-color: rgba(0, 0, 0, 0);
+  backdrop-filter: blur(24px);
+}
+
+.bg-primary {
+  background-color: #00ffab;
+}
+
+.text-primary {
+  color: #00ffab;
+}
+
+.css-13cymwt-control {
+  background-color: transparent !important;
+  border-color: rgba(255, 255, 255, 0.1);
+  min-height: 44px !important;
+}
+.css-t3ipsp-control {
+  background-color: transparent !important;
+  border-color: rgba(255, 255, 255, 0.1);
+  min-height: 44px !important;
+}
+
+.css-1dimb5e-singleValue {
+  color: #fff !important;
+}
+
+.grad-bg {
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    #00ffd0 0deg,
+    rgba(0, 255, 208, 0.87) 32.01deg,
+    rgba(151, 247, 229, 0.12) 268.13deg,
+    #00ffd0 360deg
+  );
+}
